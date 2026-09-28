@@ -51,10 +51,10 @@ REST API built using FastAPI and SQLite with URL shortening, redirection,
 click tracking, statistics, validation, CRUD operations, automated testing,
 and deployment.
 
-### CAD Prediction using Hybrid Ensemble Learning
-Machine learning project using Logistic Regression, Random Forest and
-LightGBM to predict coronary artery disease from clinical data.
-
+### TaskFlow
+TaskFlow is a real-time project management app built with FastAPI, 
+React, PostgreSQL, and Redis. It supports team roles, Kanban tasks, 
+live notifications, and secure authentication.
 ## 📁 Project Structure
 
 pvarmy26/
@@ -73,7 +73,7 @@ pvarmy26/
 
 Clone the repository:
 
-git clone https://pvarmy26.github.io/pvarmy26/
+git clone https://github.com/pvarmy26/pvarmy26.git
 
 Open the project folder and launch `index.html` in a browser.
 
