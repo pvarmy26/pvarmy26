@@ -73,7 +73,7 @@ pvarmy26/
 
 Clone the repository:
 
-git clone https://github.com/pvarmy26/pvarmy26.git
+git clone https://github.com/pvarmy26/pvarmy26.git 
 
 Open the project folder and launch `index.html` in a browser.
 
